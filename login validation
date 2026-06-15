@@ -1,0 +1,10 @@
+username = "admin"
+
+if username == "admin":
+    print("Valid User")
+else:
+    print("Invalid User")
+
+Output
+
+Valid User
