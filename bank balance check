@@ -1,0 +1,10 @@
+balance = 1500
+
+if balance >= 1000:
+    print("Minimum Balance Maintained")
+else:
+    print("Minimum Balance Not Maintained")
+
+Output
+
+Minimum Balance Maintained
