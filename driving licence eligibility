@@ -1,0 +1,10 @@
+age = 20
+
+if age >= 18:
+    print("Eligible for Driving License")
+else:
+    print("Not Eligible")
+
+Output
+
+Eligible for Driving License
