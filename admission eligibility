@@ -1,0 +1,10 @@
+marks = 75
+
+if marks >= 60:
+    print("Admission Granted")
+else:
+    print("Admission Denied")
+
+Output
+
+Admission Granted
