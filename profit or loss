@@ -1,0 +1,11 @@
+cp = 100
+sp = 120
+
+if sp > cp:
+    print("Profit")
+else:
+    print("Loss")
+
+Output
+
+Profit
