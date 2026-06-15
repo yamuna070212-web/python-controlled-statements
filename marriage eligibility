@@ -1,0 +1,10 @@
+age = 23
+
+if age >= 21:
+    print("Eligible for Marriage")
+else:
+    print("Not Eligible")
+
+Output
+
+Eligible for Marriage
