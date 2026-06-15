@@ -1,0 +1,10 @@
+ch = '8'
+
+if ch.isdigit():
+    print("Digit")
+else:
+    print("Alphabet")
+
+Output
+
+Digit
