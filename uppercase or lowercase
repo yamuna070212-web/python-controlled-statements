@@ -1,0 +1,10 @@
+ch = 'A'
+
+if ch.isupper():
+    print("Uppercase")
+else:
+    print("Lowercase")
+
+Output
+
+Uppercase
