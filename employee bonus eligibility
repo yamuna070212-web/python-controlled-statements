@@ -1,0 +1,10 @@
+years = 6
+
+if years >= 5:
+    print("Eligible for Bonus")
+else:
+    print("Not Eligible")
+
+Output
+
+Eligible for Bonus
