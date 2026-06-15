@@ -1,0 +1,22 @@
+for num in range(2, 21):
+    count = 0
+
+    for i in range(1, num + 1):
+        if num % i == 0:
+            count += 1
+
+    if count == 2:
+        print(num)
+
+Output
+
+2
+3
+5
+7
+11
+13
+17
+19
+
+These are usually kept in a separate 06_Patterns folder in GitHub.
