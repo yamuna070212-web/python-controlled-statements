@@ -1,0 +1,16 @@
+num = 9
+square = num * num
+
+total = 0
+
+for digit in str(square):
+    total += int(digit)
+
+if total == num:
+    print("Neon Number")
+else:
+    print("Not Neon Number")
+
+Output
+
+Neon Number
