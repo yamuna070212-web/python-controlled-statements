@@ -1,0 +1,26 @@
+secret = 7
+
+while True:
+
+    guess = int(input("Enter number: "))
+
+    if guess == secret:
+        print("Correct")
+        break
+
+    elif guess < secret:
+        print("Too Small")
+
+    else:
+        print("Too Large")
+
+Sample Output
+
+Enter number: 4
+Too Small
+
+Enter number: 10
+Too Large
+
+Enter number: 7
+Correct
