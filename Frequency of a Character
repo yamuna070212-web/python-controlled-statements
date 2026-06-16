@@ -1,0 +1,13 @@
+text = "programming"
+
+count = 0
+
+for ch in text:
+    if ch == "g":
+        count += 1
+
+print(count)
+
+Output
+
+2
