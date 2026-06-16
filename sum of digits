@@ -1,0 +1,11 @@
+num = 123
+total = 0
+
+for digit in str(num):
+    total += int(digit)
+
+print(total)
+
+Output
+
+6
