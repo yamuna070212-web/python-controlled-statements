@@ -1,0 +1,11 @@
+num = 25
+square = num ** 2
+
+if str(square).endswith(str(num)):
+    print("Automorphic Number")
+else:
+    print("Not Automorphic")
+
+Output
+
+Automorphic Number
